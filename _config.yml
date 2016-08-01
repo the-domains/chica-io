@@ -1,0 +1,14 @@
+layout_spectrum: 0.9366001
+typography_spectrum: 0.3299752
+color:
+  lightness: 0.4636806
+  brandStrength: 0.8751798
+  saturation: 0.7503399
+  rhythmicContrast: 0.1439684
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Chica.io
