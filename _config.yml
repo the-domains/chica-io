@@ -1,11 +1,5 @@
 layout_spectrum: 0.9366001
 name: Chica
-typography_spectrum: 0.3299752
-color:
-  brandStrength: 0.8751798
-  saturation: 0.7503399
-  lightness: 0.4636806
-  rhythmicContrast: 0.1439684
 collections:
   - index:
       navigable: true
@@ -18,3 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+color:
+  brandStrength: 0.8751798
+  lightness: 0.1670839
+  saturation: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#E3BFB3'
+    - '#CF545E'
+    - '#736E87'
+    - '#B6838C'
+    - '#F7D5D9'
+typography_spectrum: 0.2609512
